@@ -278,8 +278,8 @@ function showSlides() {
         <td id="fadd" width="30%">
         <i class="fa fa-github" style="font-size:25px"></i>
         </td>
-        <td><a href="https://github.com/Sunrit07/">
-        https://github.com/Sunrit07
+        <td><a href="https://github.com/Sunrit07/Spark_Bank">
+        https://github.com/Sunrit07/Spark_Bank
 	</a>
        </td>
         </tr>
